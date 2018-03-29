@@ -1,0 +1,9 @@
+D:\Onedrive\Projects\ClassEditor\ClassEditor\bin\Debug\ClassEditor.exe.config
+D:\Onedrive\Projects\ClassEditor\ClassEditor\bin\Debug\ClassEditor.exe
+D:\Onedrive\Projects\ClassEditor\ClassEditor\bin\Debug\ClassEditor.pdb
+D:\Onedrive\Projects\ClassEditor\ClassEditor\obj\Debug\ClassEditor.Form1.resources
+D:\Onedrive\Projects\ClassEditor\ClassEditor\obj\Debug\ClassEditor.Properties.Resources.resources
+D:\Onedrive\Projects\ClassEditor\ClassEditor\obj\Debug\ClassEditor.csproj.GenerateResource.Cache
+D:\Onedrive\Projects\ClassEditor\ClassEditor\obj\Debug\ClassEditor.exe
+D:\Onedrive\Projects\ClassEditor\ClassEditor\obj\Debug\ClassEditor.pdb
+D:\Onedrive\Projects\ClassEditor\ClassEditor\obj\Debug\ClassEditor.csprojResolveAssemblyReference.cache
